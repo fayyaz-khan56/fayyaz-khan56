@@ -10,12 +10,12 @@
 
 ### 💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/fayyaz-khan56">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+Into+Reality;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fayyaz-khan56&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 </div>
